@@ -4,6 +4,7 @@ import academy.devdojo.maratonajava.javacore.Aintroducaoclasses.dominio.Professo
 
 public class ProfessorTest01 {
     public static void main(String[] args) {
+        //Comentário para testar o GIT
         Professor professor = new Professor();
         professor.nome = "Maria";
         professor.idade = 40;
